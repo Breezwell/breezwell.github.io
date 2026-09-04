@@ -34,8 +34,8 @@ The goal is to elevate Business Analysts from documentation labor to **strategic
 
 ## About the Author
 
-**Bro — Semantic Architect & Clarity‑Systems Designer**  
-Creator of the Vetted Insight ecosystem and architect of semantic tooling designed to empower veterans and modernize analytical work in technical environments.
+**Brian Fabrizio — Senior IT Business Systems Analsyt & Semantic Architect**  
+Creator of the emerging Semantic Analysis Arsenal framework and architect of semantic tooling designed to modernize analytical work in technical environments.
 
 ---
 
@@ -43,15 +43,6 @@ Creator of the Vetted Insight ecosystem and architect of semantic tooling design
 
 The roadmap is available at:  
 **https://breezwell.github.io**
-
----
-
-## Repository Structure
-
-- `/index.html` — Landing page  
-- `/assets/` — Visual and structural assets  
-- `/roadmap/` — Semantic Analysis Arsenal Roadmap  
-- `/css/` — Styling for the clarity‑systems aesthetic  
 
 ---
 
