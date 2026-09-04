@@ -6,6 +6,9 @@ The **Semantic Analysis Arsenal** is a clarity‑systems framework designed to m
 
 ## Purpose of This Roadmap
 
+The roadmap is available at:  
+**https://breezwell.github.io**
+
 This roadmap provides a high‑level view of how the Arsenal evolves over time. It defines:
 
 - Tool families and their semantic roles  
@@ -36,13 +39,6 @@ The goal is to elevate Business Analysts from documentation labor to **strategic
 
 **Brian Fabrizio — Senior IT Business Systems Analsyt & Semantic Architect**  
 Creator of the emerging Semantic Analysis Arsenal framework and architect of semantic tooling designed to modernize analytical work in technical environments.
-
----
-
-## Live Roadmap
-
-The roadmap is available at:  
-**https://breezwell.github.io**
 
 ---
 
