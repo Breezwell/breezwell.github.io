@@ -42,7 +42,7 @@ The goal is to elevate Business Analysts from documentation labor to **strategic
 ## About the Author
 
 **Brian Fabrizio — Senior IT Business Systems Analsyt & Semantic Architect**  
-Creator of the emerging Semantic Analysis Arsenal framework and architect of semantic tooling designed to modernize analytical work in technical environments.
+Creator of the emerging Semantic Analysis Arsenal framework and architect of semantic tooling designed to modernize analytical work in technical environments based on semantic architecture.
 
 ---
 
