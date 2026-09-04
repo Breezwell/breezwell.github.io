@@ -9,7 +9,9 @@ The **Semantic Analysis Arsenal** is a clarity‑systems framework designed to m
 The roadmap is available at:  
 **https://breezwell.github.io**
 
-This roadmap provides a high‑level view of how the Arsenal evolves over time. It defines:
+This roadmap provides a high‑level view of how the Arsenal evolves over time. 
+
+It defines:
 
 - Tool families and their semantic roles  
 - Interdependencies across clarity‑systems components  
