@@ -25,7 +25,9 @@ The roadmap is deployed via GitHub Pages to serve as a stable, versioned referen
 
 ## What the Arsenal Modernizes
 
-The Semantic Analysis Arsenal targets legacy BA workflows by replacing manual, repetitive tasks with structured semantic tooling. It focuses on:
+The Semantic Analysis Arsenal targets legacy BA workflows by replacing manual, repetitive tasks with structured semantic tooling.
+
+It focuses on:
 
 - Automated requirements synthesis  
 - Semantic backlog structuring  
