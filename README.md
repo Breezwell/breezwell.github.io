@@ -1,61 +1,60 @@
 # Breezwell
 
-**Semantic Architect • Clarity‑Systems Designer • Workflow Analyst**
+Breezwell is my development space for building two core tools:
 
-Breezwell is my personal architecture space for developing semantic frameworks, clarity‑systems tooling, and structured methods that reduce ambiguity in complex environments.  
-This repo represents the identity layer of my work: the principles, patterns, and structures that anchor the Breezwell‑Arsenal ecosystem.
+- **Semantic Analysis Arsenal** — a set of small, focused utilities for exploring meaning, structure, and workflow clarity.
+- **E4‑Armory** — a lightweight Epic → Feature → Story organizer for breaking down work in a simple, structured way.
+
+This repo will grow as these tools evolve from prototypes into usable clarity‑systems.
 
 ---
 
 ## Purpose
 
-Breezwell exists to define and refine the core semantic disciplines that drive my practice:
-
-- **[Semantic Intake](ca://s?q=Explain_semantic_intake_engine)** — extracting meaning, vocabulary, and domain structure  
-- **[Workflow Decomposition](ca://s?q=Explain_atomic_workflow_decomposer)** — breaking workflows into atomic, analyzable units  
-- **[Decision Logic Modeling](ca://s?q=Explain_decision_logic_builder)** — structuring rule sets, conditions, and operational logic  
-- **[Requirements Stabilization](ca://s?q=Explain_requirement_stability_checker)** — identifying ambiguity, instability, and semantic drift  
-- clarity‑systems architecture and engineered meaning‑structures
-
-These disciplines form the backbone of every tool, model, and engagement I build.
+The goal of Breezwell is to create practical tools that help reduce complexity and make analysis work easier to organize.  
+Everything here is intentionally lightweight, minimal, and built to support real workflows without the overhead of large platforms.
 
 ---
 
-## Current Focus
+## Current Projects
 
-Developing the **E4‑Armory**, a lightweight clarity‑systems tool based on a simple Epic → Feature → Story hierarchy.  
-The Armory serves as a structured container for decomposition work, enabling individuals and small teams to organize analysis without enterprise overhead.
+### **Semantic Analysis Arsenal**
+A collection of small semantic tools designed to help with:
+
+- meaning extraction  
+- workflow decomposition  
+- structure mapping  
+- clarity exploration  
+
+This is an experimental space where I test ideas and build early components.
+
+### **E4‑Armory**
+
+A simple backlog tool based on:
+
+- **Epic**  
+- **Feature**  
+- **User Story**
+
+It’s designed for individuals and small teams who need a clean way to organize work without heavy project‑management systems.
 
 ---
 
-## Ecosystem
+## Direction
 
-Breezwell is the identity root.  
-The operational modules live under:
+As Breezwell grows, it will include:
 
-**Breezwell‑Arsenal**  
-<https://github.com/Breezwell-Arsenal>
+- clarity‑focused utilities  
+- workflow helpers  
+- semantic analysis prototypes  
+- small tools that support structured thinking
 
-The Arsenal contains the clarity‑systems toolkit: semantic engines, workflow decomposers, decision‑logic structures, and domain‑specific modules.
-
----
-
-## Architectural Principles
-
-- engineered clarity  
-- minimal surface area  
-- semantic precision  
-- domain‑aligned structure  
-- decomposition over complexity  
-- workflow truth over ceremony
-
-These principles guide every artifact produced under Breezwell.
+The emphasis is on building useful, minimal components first — then expanding as needed.
 
 ---
 
 ## Contact
 
 Reach me through GitHub or LinkedIn.
-
 
 
