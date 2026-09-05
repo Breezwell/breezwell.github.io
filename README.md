@@ -3,7 +3,7 @@
 Breezwell is my development space for building two core tools:
 
 - **Semantic Analysis Arsenal** — a set of small, focused utilities for exploring meaning, structure, and workflow clarity.
-- **E4‑Armory** — a lightweight Epic → Feature → Story organizer for breaking down work in a simple, structured way with tooling specifically for analysts.
+- **E4‑Armory** — a lightweight Epic → Feature → Story organizer for breaking down work in a simple, structured way with tooling specifically for analysts, not micro-managers.
 
 This repo will grow as these tools evolve from prototypes into usable clarity‑systems.
 
