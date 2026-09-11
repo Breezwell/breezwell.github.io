@@ -29,7 +29,7 @@ Together they form a unified semantic operations environment.
 
 ## Featured Prototype: E4-Armory
 
-A lightweight semantic backlog management system with AI integration.
+A lightweight semantic backlog management system.
 
 → Prototype Page: [Design Prototype Page](ca://s?q=Design_prototype_page_layout)  
 → Repository: [Architect Repo](ca://s?q=Architect_my_first_GitHub_repo)
