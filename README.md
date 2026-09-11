@@ -1,61 +1,51 @@
-# Breezwell
+# Breezwell • Semantic Architect  
+### Clarity‑Systems • Workflow Decomposition • Meaning‑Structure Design
 
-Breezwell is my development space for building two core tools:
-
-- **Semantic Analysis Arsenal** — a set of small, focused utilities for exploring meaning, structure, and workflow clarity.
-- **E4‑Armory** — a lightweight Epic → Feature → Story organizer for breaking down work in a simple, structured way with tooling specifically for analysts, not micro-managers.
-
-This repo will grow as these tools evolve from prototypes into usable clarity‑systems.
+I design clarity‑systems that reduce cognitive load in environments where complexity overwhelms people who shouldn’t be fighting it alone.
 
 ---
 
-## Purpose
+## Semantic Ecosystem
+Explore the systems, prototypes, and mission work that define my clarity‑architecture environment.
 
-The goal of Breezwell is to create practical tools that help reduce complexity and make analysis work easier to organize.  
+### Semantic Arsenal  
+Tools for intake, decomposition, decision‑logic, and workflow stabilization.  
+→ Explore: [Semantic Arsenal](ca://s?q=Show_me_Semantic_Arsenal_structure)
 
-Everything here is intentionally lightweight, minimal, and built to support real workflows without the overhead of large platforms.
+### Prototype Gallery  
+Working clarity‑systems prototypes and geometric artifacts.  
+→ View: [Prototype Gallery](ca://s?q=Show_me_Prototype_Gallery_structure)
 
----
+### Case Studies  
+Synthetic examples demonstrating semantic decomposition.  
+→ Read: [Case Studies](ca://s?q=Show_me_Case_Study_structure)
 
-## Current Projects
-
-### **Semantic Analysis Arsenal**
-A collection of small semantic tools designed to help with:
-
-- meaning extraction  
-- workflow decomposition  
-- structure mapping  
-- clarity exploration  
-
-This is an experimental space where I test ideas and build early components.
-
-### **E4‑Armory**
-
-A simple backlog tool based on:
-
-- **Epic**  
-- **Feature**  
-- **User Story**
-
-It’s designed for individuals and small teams who need a clean way to organize work without heavy project‑management systems.
+### Veteran Clarity Systems  
+Clarity‑systems designed to support disabled veterans.  
+→ Explore: [Veteran Clarity Systems](ca://s?q=Show_me_Veteran_Clarity_Systems_structure)
 
 ---
 
-## Direction
+## Featured Prototype: Semantic Intake Engine
+A structured intake system that converts ambiguous requirements into stable semantic units.
 
-As Breezwell grows, it will include:
+→ Prototype Page: [Design Prototype Page](ca://s?q=Design_prototype_page_layout)  
+→ Repository: [Architect Repo](ca://s?q=Architect_my_first_GitHub_repo)
 
-- clarity‑focused utilities  
-- workflow helpers  
-- semantic analysis prototypes  
-- small tools that support structured thinking
+---
 
-The emphasis is on building useful, minimal components first — then expanding as needed.
+## Design Philosophy
+I build systems that:
+- reduce ambiguity  
+- stabilize workflows  
+- expose hidden structure  
+- create operational clarity  
+- support veterans and technical teams  
 
 ---
 
 ## Contact
-
-Reach me through GitHub or LinkedIn.
-
+GitHub: Breezwell  
+Email: breezwell@proton.me  
+LinkedIn: optional
 
