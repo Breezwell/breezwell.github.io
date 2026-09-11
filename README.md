@@ -53,4 +53,5 @@ My work is geometric, minimal, and engineered for environments where clarity is 
 
 GitHub: Breezwell  
 Email: brianfabrizio87@gmail.com
+
 LinkedIn: www.linkedin.com/in/fabriziobrian
