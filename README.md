@@ -12,6 +12,7 @@ This repo will grow as these tools evolve from prototypes into usable clarity‑
 ## Purpose
 
 The goal of Breezwell is to create practical tools that help reduce complexity and make analysis work easier to organize.  
+
 Everything here is intentionally lightweight, minimal, and built to support real workflows without the overhead of large platforms.
 
 ---
