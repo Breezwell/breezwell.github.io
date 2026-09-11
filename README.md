@@ -27,9 +27,9 @@ Together they form a unified semantic operations environment.
 
 ---
 
-## Featured Prototype: Semantic Intake Engine
+## Featured Prototype: E4-Armory
 
-A structured intake system that converts ambiguous requirements into stable semantic units.
+A lightweight semantic backlog management system with AI integration.
 
 → Prototype Page: [Design Prototype Page](ca://s?q=Design_prototype_page_layout)  
 → Repository: [Architect Repo](ca://s?q=Architect_my_first_GitHub_repo)
