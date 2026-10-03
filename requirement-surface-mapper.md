@@ -50,13 +50,13 @@ Take, for example, the **Requirement Surface Mapper**.
 
 Instead of treating a requirement as a block of static text, the Requirement Surface Mapper processes it through a strict structural pipeline:
 
-    Capture: Ingests and normalizes raw, unstructured requirement statements.
+    1. Capture: Ingests and normalizes raw, unstructured requirement statements.
 
-    Structure: Decomposes each statement into its atomic primitives—isolating the people, actions, and limits involved.
+    2. Structure: Decomposes each statement into its atomic primitives—isolating the people, actions, and limits involved.
 
-    Map: Projects those components onto relational semantic surfaces to locate areas where wording causes friction or overlap.
+    3. Map: Projects those components onto relational semantic surfaces to locate areas where wording causes friction or overlap.
 
-    Surface: Exposes hidden gaps, contradictions, and ambiguities before the feature enters design or development.
+    4. Surface: Exposes hidden gaps, contradictions, and ambiguities before the feature enters design or development.
 
 By turning raw requirement text into a clear, structured map, the instrument mechanizes what usually relies on guesswork and tribal knowledge.
 The Engineering Benefits of Semantic Precision
